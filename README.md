@@ -2,10 +2,10 @@
 Practical Project Management
 
 # Group Members
--Abdul Basit
--Balazs Szilagyi 
--Cai Lin 
--Jay Chim 
--Kelvin Lau
--Matthew Underwood 
+-Abdul Basit <br>
+-Balazs Szilagyi <br>
+-Cai Lin <br>
+-Jay Chim <br>
+-Kelvin Lau <br>
+-Matthew Underwood <br> 
 
